@@ -1,6 +1,6 @@
 import random
-import blackjack.create_suits as create_suits
-from blackjack.card_class import Card
+import create_suits as create_suits
+from card_class import Card
 
 class Deck():
     

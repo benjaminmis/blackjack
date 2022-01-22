@@ -1,6 +1,6 @@
-from blackjack.player_class import Player
-from blackjack.deck_class import Deck
-from blackjack.blackjack_functions import hit_or_stand, bet, replay, reset_game
+from player_class import Player
+from deck_class import Deck
+from blackjack_functions import hit_or_stand, bet, replay, reset_game
 
 bj_deck=Deck()
 bj_deck.shuffle()

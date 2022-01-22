@@ -1,4 +1,4 @@
-import blackjack.create_suits as create_suits
+import create_suits as create_suits
 
 class Card(): 
     
